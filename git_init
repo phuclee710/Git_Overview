@@ -1,0 +1,16 @@
+// git init
+// git status : Kiểm tra trạng thái của từng file đã được commit hoặc add 
+                vào Statging
+// git add  : Chuyển các file vào statging nhằm cb commit
+// git commit : Đẩy file hoàn tất lên server để lưu trữ
+
+// git log : Liệt kê các File đã lưu trữ
+// git show : Xem chi tiết các file đã được lưu trữ 
+// git diff : So sánh file sau và trước khi update
+
+//working directory 
+// statging area : Nơi mà file add vào để chuẩn bị commit tới server
+// git repository 
+
+// git checkout : Sau khi up lên server mình có thể loại bỏ các thay dổi mới và thành file cũ
+// git reset : Lấy file xuống từ server và không commit nữa.
