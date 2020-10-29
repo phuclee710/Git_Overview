@@ -14,3 +14,7 @@
 
 // git checkout : Sau khi up lên server mình có thể loại bỏ các thay dổi mới và thành file cũ
 // git reset : Lấy file xuống từ server và không commit nữa.
+
+git remote add origin https://github.com/phuclee710/Git_Overview.git
+git branch -M main
+git push -u origin main
